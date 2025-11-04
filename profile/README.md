@@ -1,22 +1,5 @@
-# SuperSpeedCalculation ⚡
+欢迎来到 SuperSpeedCalculation 组织！
 
-高性能计算解决方案，专注于优化算法执行效率。
+## 📚 文档导航
 
-## 🎯 我们的使命
-提供业界领先的计算性能优化工具和库。
-
-## 📋 核心项目
-- **SuperSpeedCache-Audetail** - 缓存优化引擎
-- **SuperSpeedCache-Server** - 分布式计算服务
-- **SuperSpeedCache-Rubio** - 算法加速库
-- **SuperSpeedCache-Netrunner** - 网络优化工具
-
-## 👥 加入我们
-- [贡献指南](链接)
-- [代码规范](链接)
-- [问题反馈](链接)
-
-## 📞 联系我们
-- 官网: http://www.supergested.com
-- 文档: [链接]
-- 讨论区: [链接]
+- [Git 使用指南](../GIT_GUIDE.md) - 详细的 Git 配置和使用教程
